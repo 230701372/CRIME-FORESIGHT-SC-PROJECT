@@ -86,10 +86,3 @@ crime-foresight-dashboard/
 └── DEPLOYMENT.md         # Deployment instructions
 ```
 
-## License
-
-[Specify your license here]
-
-## Contact
-
-[Your contact information]
